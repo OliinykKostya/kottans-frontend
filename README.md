@@ -17,3 +17,9 @@ Those two tasks helped me more understood how to work with remote repository.
 
 ![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_git_collaboration/task_git_collaboration1.JPG)
 ![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_git_collaboration/task_git_collaboration2.JPG)
+
+## Intro to HTML and CSS
+On my opinion htmlacademy course quite good for study basic level HTML and CSS. I have enjoyed to spend time on this course. I learned several new tags and repeated all about selectors.
+
+![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_html_css_intro/task_html_css_intro1.JPG)
+![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_html_css_intro/task_html_css_intro2.JPG)
