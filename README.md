@@ -23,3 +23,9 @@ On my opinion htmlacademy course quite good for study basic level HTML and CSS. 
 
 ![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_html_css_intro/task_html_css_intro1.JPG)
 ![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_html_css_intro/task_html_css_intro2.JPG)
+
+## Responsive Web Design
+All was new for me, I learned how to create responsive web page in depend on type of gadget so it was pretty cool experience also Flexbox Froggy game was cool to.
+
+![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_responsive_web_design/task_responsive_web_design.JPG)
+![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_responsive_web_design/task_responsive_web_design1.JPG)
