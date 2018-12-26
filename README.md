@@ -29,3 +29,10 @@ All was new for me, I learned how to create responsive web page in depend on typ
 
 ![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_responsive_web_design/task_responsive_web_design.JPG)
 ![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_responsive_web_design/task_responsive_web_design1.JPG)
+
+## JS Basics
+It was hard but I did.
+
+![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_js_basics/6.1.JPG)
+![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_js_basics/6.2.JPG)
+![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_js_basics/6.3.JPG)
