@@ -36,3 +36,7 @@ It was hard but I did.
 ![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_js_basics/6.1.JPG)
 ![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_js_basics/6.2.JPG)
 ![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_js_basics/6.3.JPG)
+
+## DOM
+![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_js_dom/7.1.JPG)
+![Git and GitHub](https://github.com/OliinykKostya/kottans-frontend/blob/master/task_js_dom/7.2.JPG)
